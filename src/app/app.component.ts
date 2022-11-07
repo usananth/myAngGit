@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'myGitAng';
+  title = 'This is my Fisrt Angular Jenkins Project';
 }
